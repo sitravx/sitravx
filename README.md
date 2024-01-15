@@ -15,3 +15,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sitravx&show_icons=true&locale=en" alt="sitravx" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sitravx&" alt="sitravx" /></p>
+
+
+
+
+
+![snake gif](https://github.com/sitravx/sitravx/blob/output/github-contribution-grid-snake.gif)
